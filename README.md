@@ -1,4 +1,4 @@
-# CodeLeap Careers API
+# CodeLeap Backend API
 
 Django REST Framework backend for the CodeLeap technical test.
 
